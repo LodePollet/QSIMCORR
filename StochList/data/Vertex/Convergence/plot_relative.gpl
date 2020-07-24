@@ -1,0 +1,5 @@
+set terminal postscript enhanced color solid 24
+set output "relative.eps"
+set xlabel "{/Symbol t}"
+set ylabel " (G - G_{ref})/G_{ref}"
+plot 'out' u 1:5 t "P=1000" w lp ls 1, 'out' u 1:7 t "P = 1M" w lp ls 2

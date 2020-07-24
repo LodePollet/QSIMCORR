@@ -1,2 +1,3 @@
 # QSIMCORR
-open access data for projects funded by the ERC Consolidator Grant QSIMCORR
+
+open access data for all papers funded by the ERC consolidator grant QSIMCORR

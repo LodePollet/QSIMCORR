@@ -1,0 +1,11 @@
+set terminal postscript eps enhanced color solid 24
+set output "fig_vertex_comparison.eps"
+set style line 1 linetype 1 lw 4 pt 1 ps 2
+set style line 2 linetype 2 lw 4 pt 2 ps 2
+set style line 3 linetype 3 lw 4 pt 6 ps 2
+set style line 4 linetype 4 lw 4 pt 4 ps 2
+set style line 5 linetype 5 lw 4 pt 5 ps 2
+set style line 6 linetype 6 lw 4 pt 5 ps 2
+set xlabel "{/Symbol t}"
+set ylabel "ln -G(p=0, {/Symbol t})"
+plot [0:8] 'qc_green' u 1:2:3 every 4 t "P=1M" w e ls 1, 'qc_green_vrtx_bare' u 1:2:3 every 16 t "bare" w e ls 2, 'qc_green_vrtx_bare' u 1:2 not w l ls 2

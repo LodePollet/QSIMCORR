@@ -1,0 +1,8 @@
+5089u			// seed for the random number generator
+0			// (0) for new simulation; (1) for continuing an existing simulation
+0			// (0) for fresh statistics; (1) for keeping the existing statistics
+100			// initial length
+10000			// maximum length of the list
+1.0			// value of kappa
+0.8			// value of the Gutzwiller b parameter
+60			// total runtime in seconds
