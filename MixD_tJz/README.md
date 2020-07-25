@@ -65,7 +65,7 @@ Error bars determined from 40 independent runs. Correlations in the error bar be
 Requirements
 ------------
 
-Only a text viewer is needed to read the data. An optional gnuplot-file is provided for Fig 4.
+Only a text viewer is needed to read the data. 
   
 
 
