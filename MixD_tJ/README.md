@@ -1,7 +1,7 @@
 Phase Diagram of Mixed-Dimensional Anisotropic t-J-Models
 =========================================================
 
-Open access data to supplement our preprint J.Dicke et al, arXiv:2210.XXXX
+Open access data to supplement our preprint J.Dicke et al, arXiv:2210.07300
 Please refer to this main text for an in-depth discussion.
 THIS README provides information on how the data, which is made available in this repo, is structured
 
