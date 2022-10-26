@@ -1,9 +1,9 @@
 Z2 parton phases in the mixed-dimensional t-Jz model
 ====================================================
 
-Open access data to supplement our F. Grusdt and L. Pollet, PRL 125, 256401 (2020).
-Please refer to this main text for an in-depth discussion.
-THIS README provides information on how the data, which is made available in this repo, is structured
+Open access data to supplement our F. Grusdt and L. Pollet, PRL 125, 256401 (2020); see also preprint arXiv:2007.13759.
+Please refer to the main text for an in-depth discussion.
+THIS README provides information on how the data, which is made available in this repo, is structured.
 
 Authors
 -------

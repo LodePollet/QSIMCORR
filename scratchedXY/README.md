@@ -1,14 +1,14 @@
 scratched-XY model: Numerical date for the strong randomness criticality in the scratched-XY model
 =================================================
 
-Open access data to supplement our preprint.
-Please refer to this main text for an in-depth discussion.
+Open access data to supplement Phys. Rev. B 99, 104514 (2019), see also preprint arxiv:1807.09184.
+Please refer to the main text for an in-depth discussion.
 This README provides information on how the data, which is made available in this repo, is structured.
 
 Authors
 -------
 * Tobias Pfeffer, LMU Munich
-* Zhiyuan Yao, University of Massachusetts
+* Zhiyuan Yao, University of Massachusetts Amherst, USA
 * Lode Pollet, LMU Munich
 
 
@@ -27,8 +27,8 @@ Mathematica
 General Usage
 -------------
 
-Data for the disorder averaged K is provided in the files 'averageK_~'
-Data for the distribution of the renormalized scratches is provided in the files 'histogram_L~'
+Data for the disorder averaged K is provided in the files 'averageK_'
+Data for the distribution of the renormalized scratches is provided in the files 'histogram_L'
 
 The data can be downloaded together with the Mathematica notebook. Executing the Mathematica notebook will generate Fig. 1 - 4 in our preprint.
 

@@ -1,8 +1,8 @@
 Stochastic lists: Sampling multi-variable functions with population methods
 =================================================
 
-Open access data to supplement our preprint []()
-Please refer to this main text for an in-depth discussion.
+Open access data to supplement Phys. Rev. B 98, 085102 (2018), see also preprint arXiv:1806.01232.
+Please refer to the main text for an in-depth discussion.
 THIS README provides information on how the data, which is made available in this repo, is structured
 
 Authors

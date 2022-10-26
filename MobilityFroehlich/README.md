@@ -1,8 +1,8 @@
 Polaron mobility in the beyond quasiparticles regime
 =================================================
 
-Open access data to supplement our preprint []()
-Please refer to this main text for an in-depth discussion.
+Open access data to supplement Phys. Rev. Lett. 123, 076601 (2019), see also preprint arXiv:1812.10336 .
+Please refer to the main text for an in-depth discussion.
 THIS README provides information on how the data, which is made available in this repo, is structured
 
 Authors (in alphabetical order)
